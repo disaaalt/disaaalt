@@ -55,4 +55,4 @@ I am also addicted to Terraria.
 
 ### 📫 <samp>Contact Me!</samp>
 
-My Discord is `leo.#0001` and i'd love contributing (neat, and maintainable) code to your respository!
+My Discord is `leo.#6969` and i'd love contributing (neat, and maintainable) code to your respository!
