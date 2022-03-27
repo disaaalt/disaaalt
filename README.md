@@ -1,15 +1,14 @@
-<br> <h3 align="center"><samp><b>Hi! Watchu doing here?</b></samp></h3>
+<br>
+<h3 align="center"><samp><b>process.stdout.write("Hello World 🌎")</b></samp></h3>
 
 ### 🌟 <samp>About Me</samp>
 
 My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
 <br>
 I mainly use my time to:
-
 - Create APIs using JavaScript, Java and various other languages.
+- Working with cloud computing.
 - Modding games and creating endless possibilites.
-- Contributing to some open source software.
-- Create stuff that I think is cool..?
 <br>
 
 <div align="center"><samp>Here are some tools/languages I currently know/use to develop my projects!</b></samp></div>
@@ -44,13 +43,12 @@ I mainly use my time to:
 
 ### ⚡ <samp>What Im Doing</samp>
 
-I am currently learning some [**dart**](https://dart.dev) and [**ruby**](https://www.ruby-lang.org/en/)!
+I am currently learning some [**go**](https://go.dev) and [**ruby**](https://www.ruby-lang.org/en/)!
 
 ### 🎵 <samp>Notes About Me</samp>
 
 I like open sourcing my projects and I have always wanted to, but most of my projects are (unfortunately) private and for commissions. I have documented most of my work in my <strike>[**portfolio**](https://leo0.xyz)</strike>(soon)!.
 
-I am also addicted to Terraria.
 <br>
 
 ### 📫 <samp>Contact Me!</samp>
