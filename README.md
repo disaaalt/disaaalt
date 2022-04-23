@@ -7,7 +7,7 @@ My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
 <br>
 I mainly use my time to:
 - Create APIs using JavaScript, Java and various other languages.
-- Working with cloud computing.
+- Working with the cloud.
 - Modding games and creating endless possibilites.
 <br>
 
@@ -47,9 +47,7 @@ I am currently learning some [**go**](https://go.dev) and [**ruby**](https://www
 
 ### 🎵 <samp>Notes About Me</samp>
 
-I like open sourcing my projects and I have always wanted to, but most of my projects are (unfortunately) private and for commissions. I have documented most of my work in my <strike>[**portfolio**](https://leo0.xyz)</strike>(soon)!.
-
-<br>
+I love the thought of open sourcing my projects and I have always wanted to, but most of my projects are (unfortunately) private and for commissions (under NDAs).
 
 ### 📫 <samp>Contact Me!</samp>
 
